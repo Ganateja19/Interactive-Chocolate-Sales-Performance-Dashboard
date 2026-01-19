@@ -1,4 +1,5 @@
 # Interactive-Chocolate-Sales-Performance-Dashboard
+<img width="1712" height="804" alt="image" src="https://github.com/user-attachments/assets/5c3a0cc1-aebc-4ee1-86ab-1ac7a28d993f" />
 
 
 ## About the project
